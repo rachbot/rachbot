@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rachbot
 - 👀 I’m interested in ...UI/UX design
-- 🌱 I’m currently learning ...Swift
+- 🌱 I’m currently learning ...HTML, CSS, and Javascript
 - 📫 How to reach me ...chelrenee@icloud.com
 
 <!---
